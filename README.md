@@ -3,4 +3,7 @@
 Project list:
 
 - bike sharing by neural network with 1 hidden layer
-- Sentiment Classification (in progress)
+- Sentiment Classification
+- Tensorflow
+- AutoEncoder
+
