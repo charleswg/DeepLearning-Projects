@@ -6,4 +6,4 @@ Project list:
 - Sentiment Classification
 - Tensorflow
 - AutoEncoder
-
+- Image Classification
